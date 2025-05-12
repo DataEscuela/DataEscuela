@@ -1,14 +1,18 @@
 <h2>👋 Hola! </h2> 
 
 
-📖 Aquí podrás descargar todo el material comentado en el canal de YouTube para que puedas ponerte manos a la obra.
+📖 Aquí encontrarás todo el material para descargar comentado en el canal de YouTube.
+
+Para que puedas seguir paso a paso y te pongas manos a la obra.
+
+Domina cada tema trabajando sobre él
+
+## 🚀 ¡Aprende haciendo! 
 
 <a href="https://www.youtube.com/@DataEscuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello" height="30" width="40" /></a> No olvides suscribírte
 
 
-Y...
 
-## 🚀 ¡Aprende haciendo! 
 
 
 <!--
