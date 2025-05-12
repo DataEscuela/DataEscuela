@@ -1,6 +1,6 @@
 <h2>👋 Hola! </h2> 
 
-🤖 Si te apasiona el mundo de data, este espacio es para ti.
+🤖 Si te apasiona el mundo de Data, este espacio es para ti.
 
 📖 Aquí encontrarás todo el material para descargar comentado en el canal de YouTube.
 
