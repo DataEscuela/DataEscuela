@@ -1,4 +1,4 @@
-<h2>👋 Hola! </h2> 
+<h2>👋 Bienvenido! </h2> 
 
 🤖 Si te apasiona el mundo de Data, este espacio es para ti.
 
