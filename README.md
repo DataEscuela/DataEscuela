@@ -1,11 +1,10 @@
 <h2>👋 Hola! </h2> 
 
+🤖 Si te apasiona el mundo de data, este espacio es para ti.
 
 📖 Aquí encontrarás todo el material para descargar comentado en el canal de YouTube.
 
-✍️ Para que puedas seguir paso a paso y te pongas manos a la obra.
-
-🧙🏻 Domina cada tema trabajando sobre él
+✍️ Porque la mejor forma de aprender un tema es poniéndolo en práctica desde el primer momento.
 
 ## 🚀 ¡Aprende haciendo! 
 
