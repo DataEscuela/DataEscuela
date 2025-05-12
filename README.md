@@ -3,7 +3,7 @@
 
 Aquí podrás descargar todo el material comentado en el canal de YouTube para que puedas ponerte manos a la obra.
 
-No olvides suscribírte: =>  <a href="https://www.youtube.com/@DataEscuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello" height="30" width="40" /></a>
+No olvides suscribírte: <a href="https://www.youtube.com/@DataEscuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello" height="30" width="40" /></a>
 
 
 Y...
