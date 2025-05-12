@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hola a todos! 👋
+
+
+Aquí podrás descargar todo el material comentado en el canal de YouTube para que puedas ponerte manos a la obra.
+
+
+¡APRENDE HACIENDO! 🚀
+
+
+
 
 <!--
 **DataEscuela/DataEscuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
