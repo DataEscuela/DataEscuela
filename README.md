@@ -3,9 +3,9 @@
 
 📖 Aquí encontrarás todo el material para descargar comentado en el canal de YouTube.
 
-Para que puedas seguir paso a paso y te pongas manos a la obra.
+✍️ Para que puedas seguir paso a paso y te pongas manos a la obra.
 
-Domina cada tema trabajando sobre él
+🧙🏻 Domina cada tema trabajando sobre él
 
 ## 🚀 ¡Aprende haciendo! 
 
