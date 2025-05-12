@@ -6,7 +6,7 @@ Aquí podrás descargar todo el material comentado en el canal de YouTube para q
 
 ¡Aprende haciendo! 🚀
 
-No olvides suscribírte:
+No olvides suscribírte:  <a href="https://www.youtube.com/@DataEscuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello" height="30" width="40" /></a>
 <p align="left">
  <a href="https://www.youtube.com/@DataEscuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello" height="30" width="40" /></a>
 
