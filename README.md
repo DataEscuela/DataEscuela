@@ -2,7 +2,7 @@
 
 🤖 Si te apasiona el mundo de Data, este espacio es para ti.
 
-📖 Aquí encontrarás todo el material para descargar comentado en el canal de YouTube.
+📖 Todo el material mencionado en el canal de YouTube está disponible aquí para descargar
 
 ✍️ Porque la mejor forma de aprender un tema es poniéndolo en práctica desde el primer momento.
 
